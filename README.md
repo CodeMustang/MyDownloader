@@ -6,7 +6,7 @@ This is my project , developed for my Computer Networks subject. (2nd year Compu
  MyDownloader allows the user to introduce an url , based on that link it can download the files attached to it 
  (the user can choose the depth level).
  
- It was developed in C++ , using QT - QCreator IDE.
+ It was developed in C++ , using QT - QTCreator IDE.
  
  Steps:
  
